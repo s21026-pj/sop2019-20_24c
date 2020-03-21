@@ -1,0 +1,21 @@
+Instalacja Linux Debian  
+1.Wybór formy instalacji (Install) 
+2.Wybór języka instalacji (English) 
+3.Wybór kraju lokalizacji (Other --> Europe --> Poland --> United States) 
+4.Wybór układu klawiatury (Polish) 
+5.Wybór nazwy Hosta, nazwa systemu widoczna w sieci (np. s21026 ) 
+6.Wybór nazwy domeny() 
+7.Ustawienie hasła dla roota 
+8.Utworzenie konta użytkownika, nazwa , hasło   
+9.Utworzenie partycji (Manual), zaznaczamy dysk który chcemy podzielić 
+10.Wybieramy wolne miejsce na dysku  
+11.Wybieramy opcje utwórz nową partycje oraz wybieramy jej rozmiar przez podanie %wolnego miejsca, rozmiaru lub korzystając ze skrótu “max” jeżeli chcemy wykorzystać całe dostępne miejsce 
+12.Wybieramy rodzaj partycji (Primary) 
+13.Ustawiamy system plików (Ext 4 --> Done setting up the partition) 
+14.Dodajemy kolejną partycję typu swap, pamięci wirtualnej( rozmiar min. Rozmiaru RAM jeżeli chcemy hibernować) 
+15.Jeśli nie chcemy zakładać kolejnej partycji przechodzimy dalej (Finish patitioning and write changes to disk) 
+16.Wybór lokalizacji serwera z pakietami do ściągania (Poland --> ftp.task.gda.pl) 
+17.Wybór proxy (Continue) 
+18.Decyzja odnośnie udziału w zbieraniu statystyk użytkowania (No) 
+ 
+ 

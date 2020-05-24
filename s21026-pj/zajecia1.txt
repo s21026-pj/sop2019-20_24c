@@ -1,7 +1,7 @@
 Instalacja Linux Debian  
 1.Wybór formy instalacji (Install) 
 2.Wybór języka instalacji (English) 
-3.Wybór kraju lokalizacji (Other --> Europe --> Poland --> United States) 
+3.Wybór kraju lokalizacji (Other --> Europe --> Poland OR United States) 
 4.Wybór układu klawiatury (Polish) 
 5.Wybór nazwy Hosta, nazwa systemu widoczna w sieci (np. s21026 ) 
 6.Wybór nazwy domeny() 

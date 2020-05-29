@@ -10,3 +10,4 @@ then
 else 
 	echo -e "BŁĄD: \"Brak pliku config albo nie podano nazwy właściwego pliku\""
 fi
+

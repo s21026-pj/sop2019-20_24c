@@ -1,24 +1,25 @@
 #include <iostream>
 #include <fstream>
-#include <string>
+#include <string.h>
+
 using namespace std;
 
 int main(int argc, char **argv)
 {
   int dlugosc=0;
   char tabela[100];
-  for(int i=0;i<100;i++){
-      tabela[i]=0;
-  }
+  bzero(tabela,100);
+
   if(argc==1){
   printf("Nie podano nazwy pliku.\n");
   printf("Podaj długość ciągu:\n");
   scanf("%d", &dlugosc);
-
+  int temp;
   for(int i=0;i<dlugosc;i++)
   {
     printf("Podaj %d liczbę ciągu\n",i+1);
-    scanf("%c",&tabela[i]);
+    scanf("%i",&temp);
+    tabela[i]=temp;
   }
   }  
   else
